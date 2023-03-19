@@ -28,7 +28,6 @@ const Parent = () => {
       </div>
 
       <footer className="footer">
-        {" "}
         Created by <strong>Mr.T</strong> &copy; <strong>2023</strong>
       </footer>
     </div>
